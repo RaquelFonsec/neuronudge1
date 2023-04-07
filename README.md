@@ -1,24 +1,4 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Esse Projeto foi uma iniciativa de 4 programadoras Ruby on Rails com intuito de facilitar a rotina de pessoas neurodivergentes
+Nesta primeira versao vamos implementar uma lista de tarefas e um diário de humor.
+Também utilizaremos metodologias agéis,e conceitos do MVC.
